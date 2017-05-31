@@ -1,0 +1,11 @@
+*.py[co]
+*~
+.ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
+.idea/
+.cache/
+
+# vim users
+.*.swp
