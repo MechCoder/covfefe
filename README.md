@@ -9,6 +9,7 @@ To make your strings great again.
 ```python
 from covfefe import covfefe
 covfefe("Despite the constant negative press ??.")
+# OMG!
 "Despite the constant negative press covfefe."
 ```
 
@@ -25,3 +26,7 @@ covfefe("Despite the constant negative press ??.", 2)
 # BOOM!
 "Despite the covfefe negative press covfefe."
 ```
+
+## Bug Reports:
+No bug can affect covfefe.
+But if you have queries or questions, feel free to tweet to the [mind](https://twitter.com/realDonaldTrump) behind this.
